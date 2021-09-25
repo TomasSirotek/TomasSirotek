@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomasssimko" alt="tomasssimko" /></a> </p>
 
-- 🔭 I’m currently working on **Vue Web Shop**
+- 🔭 I’m currently working on **Nuxt E-commerce shop**
 
-- 🌱 I’m currently learning **Vue Js, PHP, C#**
+- 🌱 I’m currently learning **Vue 2,3, PHP, C#**
 
-- 💬 Ask me about **vue,vuex,js,sass**
+- 💬 Ask me about **vue,vuex,js,sass,css,firebase,firestore**
 
 - 📫 How to reach me **simko.t@email.cz**
 
