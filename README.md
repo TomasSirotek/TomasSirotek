@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Nuxt E-commerce shop**
 
-- 🌱 I’m currently learning **Vue 2,3, PHP, C#**
+- 🌱 I’m currently learning **Vue 2,3, PHP, C#, React,Firebase**
 
 - 💬 Ask me about **vue,vuex,js,sass,css,firebase,firestore**
 
