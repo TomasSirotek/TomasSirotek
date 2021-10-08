@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomasssimko" alt="tomasssimko" /></a> </p>
 
-- 🔭 I’m currently working on **Nuxt E-commerce shop**
+- 🔭 I’m currently working on **Vue2 E-commerce shop (firestore / fireAuth)**
 
 - 🌱 I’m currently learning **Vue 2,3, PHP, C#, React,Firebase**
 
