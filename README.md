@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Vue 2,3, PHP, C#, React,Firebase**
 
-- 💬 Ask me about **vue,vuex,js,sass,css,firebase,firestore**
+- 💬 Ask me about **vue,vuex,js,sass,css,firebase,wordpress,react,NextJs**
 
 - 📫 How to reach me **simko.t@email.cz**
 
