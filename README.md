@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomasssimko" alt="tomasssimko" /></a> </p>
 
-- 🔭 I’m currently working on **www.nodabygaps.dk**
+- 🔭 I’m currently working on **https://nodabygaps.dk**
 
 - 🌱 I’m currently learning **Vue 2,3, PHP, C#, React,Firebase**
 
