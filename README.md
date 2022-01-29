@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tomas Simko</h1>
-<h3 align="center">A passionate student, Full Stack developer & Crypto Maniac</h3>
+<h3 align="center">A passionate student, Back-end developer & Crypto Maniac</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomasssimko&label=Profile%20views&color=0e75b6&style=flat" alt="tomasssimko" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomasssimko" alt="tomasssimko" /></a> </p>
 
-- 🔭 I’m currently working on **https://nodabygaps.dk**
+- 🔭 I’m currently working as .Net/Core C# Back-end developer intern  **http://www.grumsendev.com**
 
-- 🌱 I’m currently learning **Vue 2,3, PHP, C#, React,Firebase**
+- 🌱 I’m currently learning **C#,.NET, REST API, React,MySql**
 
-- 💬 Ask me about **vue,vuex,js,sass,css,firebase,wordpress,react,NextJs**
+- 💬 Ask me about **NextJs,Networking,Sass,Typescript**
 
 - 📫 How to reach me **simko.t@email.cz**
 
