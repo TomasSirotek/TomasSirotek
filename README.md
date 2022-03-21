@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomasssimko" alt="tomasssimko" /></a> </p>
 
-- 🔭 I’m currently working as .Net/Core C# Back-end developer intern  **http://www.grumsendev.com**
+- 🔭 I’m currently working on .Net/Core C# company website  **http://www.portal.grumsen.dev**
 
-- 🌱 I’m currently learning **C#,.NET, REST API, React,MySql**
+- 🌱 I’m currently learning **C#,.NET, REST API, React,MySql,Postgres**,
 
-- 💬 Ask me about **NextJs,Networking,Sass,Typescript**
+- 💬 Ask me about **NextJs,Security,Sass,Typescript**
 
 - 📫 How to reach me **simko.t@email.cz**
 
