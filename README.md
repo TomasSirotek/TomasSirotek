@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomasssimko" alt="tomasssimko" /></a> </p>
 
-- 🔭 I’m currently working on .Net/Core C# company website  **http://www.portal.grumsen.dev**
+- 🔭 I finished ASP.Net Rest API backend for company website  **http://www.portal.grumsen.dev**
 
-- 🌱 I’m currently learning **C#,.NET, REST API, React,MySql,Postgres**,
+- 🔭 I’m currently working on Game => e-comm back-end with ASP.Net C# Rest API with docker and Postgres 
 
-- 💬 Ask me about **NextJs,Security,Sass,Typescript**
+- 🌱 I’m currently learning **C#,ASP.NET CORE,REST API, React,MySql,Postgres**,
+
+- 💬 Ask me about **NextJs,C#,Sql databases,software application architecture,OOP**
 
 - 📫 How to reach me **simko.t@email.cz**
 
