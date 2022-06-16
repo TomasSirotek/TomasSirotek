@@ -7,7 +7,7 @@
 
 - 🔭 I finished ASP.Net Rest API backend for company website  **http://www.portal.grumsen.dev**
 
-- 🔭 I’m currently working on Game => e-comm back-end with ASP.Net C# Rest API with docker and Postgres 
+- 🔭 I’m currently working on => Product API microservice ASP.Net RestAPI with docker and SQLServer
 
 - 🌱 I’m currently learning **C#,.NET 6,REST API,MySql,Postgres**,NodeJs,
 
