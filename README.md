@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I finished Academy Profession degree with final project ASP.Net Rest API backend for Grumsenev **https://www.portal.grumsen.dev**
+- 🔭 I completed Academy Profession degree with final project ASP.Net RestAPI backend for Grumsendev **https://www.portal.grumsen.dev**
 
 - 📚 I’m currently working on => Product API ASP.Net RestAPI with docker and SQLServer
 
