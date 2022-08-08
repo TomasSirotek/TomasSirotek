@@ -5,9 +5,11 @@
 
 
 
-- 🔭 I finished ASP.Net Rest API backend for company website  **http://www.portal.grumsen.dev**
+- 🔭 I finished Academy Profession degree with final project ASP.Net Rest API backend for Grumsenev =>  **http://www.portal.grumsen.dev**
 
-- 🔭 I’m currently working on => Product API microservice ASP.Net RestAPI with docker and SQLServer
+- 📚 I’m currently working on => Product API ASP.Net RestAPI with docker and SQLServer
+
+- 🇩🇰 Checkout the most recent deployed WordPress website for local danish company **https://nodabygaps.dk/**
 
 - 🌱 I’m currently learning **C#,.NET 6,REST API,MySql,Postgres**,NodeJs,
 
