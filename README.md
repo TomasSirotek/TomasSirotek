@@ -7,7 +7,7 @@
 
 - 🔭 I completed Academy Profession degree with final project ASP.Net RestAPI backend for Grumsendev **https://www.portal.grumsen.dev**
 
-- 📚 I’m currently working on Full stack app => Product API ASP.Net RestAPI with docker and SQLServer =>  **https://github.com/TomassSimko/ProductAPI** with UI build with React => **https://github.com/TomassSimko/ProductClient**
+- 📚 I’m currently working on REST API => Users API ASP.Net with docker and SQLServer / dapper =>  **https://github.com/TomassSimko/ProductAPI** 
 
 - 🇩🇰 Checkout the most recent deployed WordPress website for local danish company **https://nodabygaps.dk/**
 
@@ -36,7 +36,11 @@
 | ![Tomas's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TomassSimko&theme=algolia)                    | 
    
 
-|                                                                                                      Tomas's Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=TomassSimko&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomassSimko&langs_count=8&theme=algolia&layout=compact) |
+|                                                                     Tomas's Stars                                                                    |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|![Github Stars](https://github-readme-stats.vercel.app/api?username=TomassSimko&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia)              | 
+
+   
+
+
 
