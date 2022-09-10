@@ -7,7 +7,7 @@
 
 - 🔭 I completed Academy Profession degree with final project ASP.Net RestAPI backend for Grumsendev **https://www.portal.grumsen.dev**
 
-- 📚 I’m currently working on REST API => Users API ASP.Net with docker and SQLServer / dapper =>  **https://github.com/TomassSimko/ProductAPI** 
+- 📚 I’m currently working on REST API => Auth API ASP.Net with docker and SQLServer / dapper =>  **https://github.com/TomassSimko/AuthAPI** 
 
 - 🇩🇰 Checkout the most recent deployed WordPress website for local danish company **https://nodabygaps.dk/**
 
