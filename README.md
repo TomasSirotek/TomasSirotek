@@ -7,7 +7,7 @@
 
 - 🔭 I completed Academy Profession degree with final project ASP.Net RestAPI backend for Grumsendev **https://www.portal.grumsen.dev**
 
-- 📚 I’m currently working on JavaFx myTunes Project **null** 
+- 📚 I’m currently working on ...
 
 - 🇩🇰 Checkout the most recent deployed WordPress website for local danish company **https://nodabygaps.dk/**
 
