@@ -11,7 +11,7 @@
 
 - 🇩🇰 Checkout the most recent deployed WordPress website for local danish company **https://nodabygaps.dk/**
 
-- 🌱 I’m currently learning **C#,.NET 6,Java,MySql,Postgres**
+- 🌱 I’m currently learning **C#,.NET ,Java**
 
 - 💬 Ask me about **C#,Sql databases,software application architecture,OOP**
 
