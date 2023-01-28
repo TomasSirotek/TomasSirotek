@@ -9,6 +9,8 @@
 
 - 📚 Currently finished Exam Project [Private-Movie-Collection](https://github.com/TomassSimko/Private-Movie-Collection)
 
+- ⌨️ Keyboard junkie 
+
 - 🇩🇰 Checkout the most recent deployed WordPress website for local danish company **https://nodabygaps.dk/**
 
 - 🌱 I’m currently learning **C#,.NET ,Java**
