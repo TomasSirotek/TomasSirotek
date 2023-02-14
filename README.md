@@ -7,7 +7,7 @@
 
 - 🔭 I completed Academy Profession degree with final project ASP.Net RestAPI backend for Grumsendev **https://www.portal.grumsen.dev**
 
-- 📚 Currently finished Exam Project [Private-Movie-Collection](https://github.com/TomassSimko/Private-Movie-Collection)
+- 📚 Currently finished Project [Private-Movie-Collection](https://github.com/TomassSimko/Private-Movie-Collection)
 
 - ⌨️ Keyboard junkie 
 
@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **C#,.NET ,Java**
 
-- 💬 Ask me about **C#,Sql databases,software application architecture,OOP**
+- 💬 Ask me about **C#,SQL databases,software application architecture,OOP**
 
 - 📫 How to reach me **simko.t@email.cz**
 
