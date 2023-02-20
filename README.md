@@ -7,7 +7,7 @@
 
 - 🔭 I completed Academy Profession degree with final project ASP.Net RestAPI backend for Grumsendev **https://www.portal.grumsen.dev**
 
-- 📚 Currently finished Project [Private-Movie-Collection](https://github.com/TomassSimko/Private-Movie-Collection)
+- 📚 Currently finished Project [GUI-streaming-platform](https://github.com/TomassSimko/gui-streaming-platform)
 
 - ⌨️ Keyboard junkie 
 
