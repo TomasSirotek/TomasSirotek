@@ -13,9 +13,9 @@
 
 - 🇩🇰 Checkout the most recent deployed WordPress website for local danish company **https://nodabygaps.dk/**
 
-- 🌱 I’m currently learning **C#,.NET ,Java**
+- 🌱 I’m currently learning ** Java,Node4j,SpringBoot**
 
-- 💬 Ask me about **C#,SQL databases,software application architecture,OOP**
+- 💬 Ask me about **Java,Relational databases,software application architecture,OOP,Design patterns**
 
 - 📫 How to reach me **simko.t@email.cz**
 
