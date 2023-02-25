@@ -34,19 +34,19 @@
 
 ## GitHub Stats
 
+ 
+|                                                                     Tomas's Stats                                                                     |                                                                        |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------:|
+| ![Tomas's github stats](https://github-readme-stats.vercel.app/api?username=TomassSimko&show_icons=true&theme=algolia)              | ![Tomas's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TomassSimko&theme=algolia)                     | 
+| ![Codewars](https://www.codewars.com/users/TomassSimko/badges/large)                    |                                                                        |
+ 
+ 
+ 
+ 
+|                                                                     Tomas's Stats                                                                    |                                                                       A Random Developer Joke                                                                     |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|![Github Stats](https://github-readme-stats.vercel.app/api?username=TomassSimko&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia)|<h3 align="left">A Random Developer Joke:</h3><p align="left"><img src="https://readme-jokes.vercel.app/api?theme=nightowl&borderColor=%23FFF" alt="A Random Developer Joke"/></p>|
 
-|                                                                     Tomas's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Tomas's github stats](https://github-readme-stats.vercel.app/api?username=TomassSimko&show_icons=true&theme=algolia)              | 
-| ![Tomas's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TomassSimko&theme=algolia)                    | 
-| ![Codewars](https://www.codewars.com/users/TomassSimko/badges/large)                    | 
-   
-
-|                                                                     Tomas's Stars                                                                    |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|![Github Stars](https://github-readme-stats.vercel.app/api?username=TomassSimko&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia)              | 
-
-   
 
 
 
