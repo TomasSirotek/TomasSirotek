@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning ** Java,Neo4j,SpringBoot**
 
-- 💬 Ask me about **Java,Relational databases,software application architecture,OOP,Design patterns**
+- 💬 Ask me about **Java,SQL,software architecture,OOP,Design patterns**
 
 - 📫 How to reach me **simko.t@email.cz**
 
