@@ -45,7 +45,7 @@
  
 |                                                                     Tomas's Stats                                                                    |                                                                       A Random Developer Joke                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|![Github Stats](https://github-readme-stats.vercel.app/api?username=TomassSimko&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia)|<h3 align="left">A Random Developer Joke:</h3><p align="left"><img src="https://readme-jokes.vercel.app/api?theme=nightowl&borderColor=%23FFF" alt="A Random Developer Joke"/></p>|
+|![Github Stats](https://github-readme-stats.vercel.app/api?username=TomassSimko&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia)|<p align="left"><img src="https://readme-jokes.vercel.app/api?theme=nightowl&borderColor=%23FFF" alt="A Random Developer Joke"/></p>|
 
 
 
