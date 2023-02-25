@@ -13,7 +13,7 @@
 
 - 🇩🇰 Checkout the most recent deployed WordPress website for local danish company **https://nodabygaps.dk/**
 
-- 🌱 I’m currently learning ** Java,Node4j,SpringBoot**
+- 🌱 I’m currently learning ** Java,Neo4j,SpringBoot**
 
 - 💬 Ask me about **Java,Relational databases,software application architecture,OOP,Design patterns**
 
