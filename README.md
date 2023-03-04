@@ -13,11 +13,13 @@
 
 - 🇩🇰 Checkout the most recent deployed WordPress website for local danish company **https://nodabygaps.dk/**
 
-- 🌱 I’m currently learning ** Java,Neo4j,SpringBoot**
+- 🌱 I’m currently learning **Java**,**Neo4j**,**SpringBoot**,**TS**,**T3 App**
 
-- 💬 Ask me about **Java,SQL,software architecture,OOP,Design patterns**
+- 💬 Let's chat about **Java**,**Cloud**,**software architecture**,**OOP**,**Design patterns**
 
 - 📫 How to reach me **simko.t@email.cz**
+
+- 💡 One LC every day, keeps unemployment away
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
