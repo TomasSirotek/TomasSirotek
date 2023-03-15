@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I completed Academy Profession degree with final project ASP.Net RestAPI backend for Grumsendev **https://www.portal.grumsen.dev**
+- 🔭 I completed Academy Profession degree with final project ASP.Net RestAPI for Grumsendev **https://www.portal.grumsen.dev**
 
 - 📚 Currently finished Project [Personal-website](https://github.com/TomassSimko)
 
@@ -13,9 +13,9 @@
 
 - 🇩🇰 Checkout the most recent deployed WordPress website for local danish company **https://nodabygaps.dk/**
 
-- 🌱 I’m currently learning **Java**,**Neo4j**,**SpringBoot**,**TS**,**T3 App**
+- 🌱 I’m currently learning **Java**,**Next 13**,**SpringBoot**,**TS**
 
-- 💬 Let's chat about **Java**,**Cloud**,**software architecture**,**OOP**,**Design patterns**
+- 💬 Let's chat about **Java**,**Cloud**,**software architecture**,**OOP**,**Design patterns**,**Design**,**UX/UI**
 
 - 📫 How to reach me **simko.t@email.cz**
 
