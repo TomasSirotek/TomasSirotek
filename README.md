@@ -17,7 +17,7 @@
 
 - 💬 Let's chat about **Java**,**Cloud**,**software architecture**,**OOP**,**Design patterns**,**Design**,**UX/UI**
 
-- 📫 How to reach me **simko.t@email.cz**
+- 📫 How to reach me **tommy.11@email.cz**
 
 - 💡 One LC every day, keeps unemployment away
 
