@@ -7,7 +7,7 @@
 
 - 🔭 I completed Academy Profession degree with final project ASP.Net RestAPI for Grumsendev **https://www.portal.grumsen.dev**
 
-- 📚 Currently finished Project [Personal-website](https://github.com/TomassSimko)
+- 📚 Currently working on project [Personal-website](https://github.com/TomassSimko)
 
 - ⌨️ Keyboard junkie 
 
