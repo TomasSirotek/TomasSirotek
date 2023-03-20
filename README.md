@@ -5,7 +5,8 @@
 
 
 
-- 🔭 I completed Academy Profession degree with final project ASP.Net RestAPI for Grumsendev **https://www.portal.grumsen.dev**
+- 🔭 I completed Academy Profession degree in Multimeda Design 
+- 🔭 Currently enrolled in 2nd semester CS in 🇩🇰
 
 - 📚 Currently working on project [Personal-website](https://github.com/TomassSimko)
 
