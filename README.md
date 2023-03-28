@@ -14,7 +14,8 @@
 
 - 🇩🇰 Checkout the most recent deployed WordPress website for local danish company **https://nodabygaps.dk/**
 
-- 🌱 I’m currently learning **Java**,**Next 13**,**SpringBoot**,**TS**
+- 🌱 I’m currently learning **Java**,**Next 13**,**SpringBoot**,**TS** and 
+  going deep into [Promting-learning](https://learnprompting.org/) in ChatGPT
 
 - 💬 Let's chat about **Java**,**Cloud**,**software architecture**,**OOP**,**Design patterns**,**Design**,**UX/UI**
 
