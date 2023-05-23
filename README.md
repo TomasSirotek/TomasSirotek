@@ -8,7 +8,7 @@
 - 🔭 I completed Academy Profession degree in Multimeda Design 
 - 🔭 Currently enrolled in 2nd semester CS in 🇩🇰
 
-- 📚 Currently working on project [Personal-website](https://github.com/TomassSimko)
+- 📚 Currently working on project [Desktop-app](https://github.com/TomassSimko/wuav-desktop-client)
 
 - ⌨️ Keyboard junkie 
 
