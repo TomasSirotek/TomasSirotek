@@ -19,8 +19,6 @@
 
 - 💬 Let's chat about **Java**,**Cloud**,**software architecture**,**OOP**,**Design patterns**,**Design**,**UX/UI**
 
-- 💡 One LC every day, keeps unemployment away
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tomassimko_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tomassimko_" height="30" width="40" /></a>
