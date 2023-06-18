@@ -6,7 +6,7 @@
 
 
 - 🔭 I completed Academy Profession degree in Multimeda Design 
-- 🔭 Currently enrolled in 2nd semester CS in 🇩🇰
+- 🔭 Currently enrolled in 3rd semester CS in 🇩🇰
 
 - 📚 Currently finished exam project [Desktop-app](https://github.com/TomassSimko/wuav-desktop-client)
 
