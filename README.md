@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tomas Simko</h1>
+<h1 align="center">Hi 👋, I'm Tomas Sirotek</h1>
 <h3 align="center">A passionate developer, student & crypto ₿ enthusiastic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomasssimko&label=Profile%20views&color=0e75b6&style=flat" alt="tomasssimko" /> </p>
