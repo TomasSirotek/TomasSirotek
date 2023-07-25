@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tomassimko_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tomassimko_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tomas-simko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tomas-simko/" height="30" width="40" /></a>
+<a href="https://twitter.com/tomassimko_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tomassirotek_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tomas-sirotek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tomas-sirotek/" height="30" width="40" /></a>
 </p>
 
 
@@ -37,15 +37,15 @@
  
 |                                                                     Tomas's Stats                                                                     |                                                                        |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------:|
-| ![Tomas's github stats](https://github-readme-stats.vercel.app/api?username=TomassSimko&show_icons=true&theme=algolia)              | ![Tomas's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TomassSimko&theme=algolia)                     | 
-| ![Codewars](https://www.codewars.com/users/TomassSimko/badges/large)                    |                                                                        |
+| ![Tomas's github stats](https://github-readme-stats.vercel.app/api?username=TomasSirotek&show_icons=true&theme=algolia)              | ![Tomas's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TomasSirotek&theme=algolia)                     | 
+|                                                                       |
  
  
  
  
 |                                                                     Tomas's Stats                                                                    |                                                                       A Random Developer Joke                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|![Github Stats](https://github-readme-stats.vercel.app/api?username=TomassSimko&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia)|<p align="left"><img src="https://readme-jokes.vercel.app/api?theme=nightowl&borderColor=%23FFF" alt="A Random Developer Joke"/></p>|
+|![Github Stats](https://github-readme-stats.vercel.app/api?username=TomasSirotek&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia)|<p align="left"><img src="https://readme-jokes.vercel.app/api?theme=nightowl&borderColor=%23FFF" alt="A Random Developer Joke"/></p>|
 
 
 
