@@ -3,12 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomasssimko&label=Profile%20views&color=0e75b6&style=flat" alt="tomasssimko" /> </p>
 
-
-
 - 🔭 I completed Academy Profession degree in Multimeda Design 
-- 🔭 Currently enrolled in 3rd semester CS in 🇩🇰
-
-- 📚 Currently finished exam project [Desktop-app](https://github.com/TomassSimko/wuav-desktop-client)
 
 - ⌨️ Keyboard junkie 
 
