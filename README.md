@@ -3,16 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomasssimko&label=Profile%20views&color=0e75b6&style=flat" alt="tomasssimko" /> </p>
 
-- 🔭 I completed Academy Profession degree in Multimeda Design 
+- 🔭 Completed Academy Profession degree in Multimeda Design
+- 👨‍💻 Computer Science student 
 
-- ⌨️ Keyboard junkie 
+- ⌨️ Keyboard junkie
+- 🔥 Stuck in Vim 
 
-- 🇩🇰 Checkout the most recent deployed WordPress website for local danish company **https://nodabygaps.dk/**
-
-- 🌱 I’m currently learning **Java**,**Next 13**,**SpringBoot**,**TS** and 
+- 🌱 I’m currently learning **Java**,**SpringBoot**,**TS**,**Php**,**Laravel** and 
   going deep into [Promting-learning](https://learnprompting.org/) in ChatGPT
-
-- 💬 Let's chat about **Java**,**Cloud**,**software architecture**,**OOP**,**Design patterns**,**Design**,**UX/UI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
