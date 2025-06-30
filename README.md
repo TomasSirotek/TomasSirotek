@@ -4,13 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomasssimko&label=Profile%20views&color=0e75b6&style=flat" alt="tomasssimko" /> </p>
 
 - 🔭 Completed Academy Profession degree in Multimeda Design
-- 👨‍💻 Computer Science student 
+- 👨‍💻 Computer Science
+- 🌐 Freelance at [Sir.dev](https://sir-dev.vercel.app/)
 
 - ⌨️ Keyboard junkie
+- <a href="https://emoji.gg/emoji/4744_arch"><img src="https://cdn3.emoji.gg/emojis/4744_arch.png" width="20px" height="20px" alt="arch"></a>  Arch Linux
 - 🔥 Stuck in Vim 
 
-- 🌱 I’m currently learning **Java**,**SpringBoot**,**TS**,**Php**,**Laravel** and 
-  going deep into [Promting-learning](https://learnprompting.org/) in ChatGPT
+- 🌱 I’m currently learning **Ruby on rails** and [Promting-learning](https://learnprompting.org/) in ChatGPT
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
