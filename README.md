@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Sirotek Tomas!](https://sirtomas.cz) 
 
-I'm a software engineer with more than 7 years of experience. I've built mobile apps, internal platforms, custom systems and brand identities, and I like being involved at every step. The most interesting part of the job for me is never the code itself, it's the decision behind it.
+I'm a software engineer with more than 7 years of experience. I've built mobile apps, internal platforms, custom systems and brand identities, and I like being involved at every step. The most interesting part of the job for me is never the code itself, it's the decision behind it. And I like to work on cool stuff.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomasssimko&label=Profile%20views&color=0e75b6&style=flat" alt="tomasssimko" /> </p>
 
