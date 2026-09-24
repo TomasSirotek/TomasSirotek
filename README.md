@@ -4,7 +4,7 @@ I'm a software engineer with more than 7 years of experience. I've built mobile 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomasssimko&label=Profile%20views&color=0e75b6&style=flat" alt="tomasssimko" /> </p>
 
-- 🦾 Learing Robotics and Product design
+- 🦾 Learing Robotics (ROS2,Jazzy etc..)
 - 🏫 Computer Science & Multimedia design
 - 🌐 [Sir.Tomas](https://sirtomas.cz/) 
 - <a href="https://emoji.gg/emoji/4744_arch"><img src="https://cdn3.emoji.gg/emojis/4744_arch.png" width="20px" height="20px" alt="arch"></a> [Omarchy](https://omarchy.org/) | [Ubuntu](https://ubuntu.com/)
