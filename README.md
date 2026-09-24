@@ -6,8 +6,8 @@ I'm a software engineer with more than 7 years of experience. I've built mobile 
 
 - 🦾 Learing Robotics and Product design
 - 🏫 Computer Science & Multimedia design
-- 🌐 [Sir.Tomas](https://sirtomas.cz/)
-- <a href="https://emoji.gg/emoji/4744_arch"><img src="https://cdn3.emoji.gg/emojis/4744_arch.png" width="20px" height="20px" alt="arch"></a> [Omarchy](https://omarchy.org/)
+- 🌐 [Sir.Tomas](https://sirtomas.cz/) 
+- <a href="https://emoji.gg/emoji/4744_arch"><img src="https://cdn3.emoji.gg/emojis/4744_arch.png" width="20px" height="20px" alt="arch"></a> [Omarchy](https://omarchy.org/) | [Ubuntu](https://ubuntu.com/)
 
 ### Connect with me
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kontakt.sirtomas@gmail.com)](mailto:kontakt.sirtomas@gmail.com)
