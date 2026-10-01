@@ -2,8 +2,6 @@
 
 I'm a software engineer with more than 7 years of experience. I've built mobile apps, internal platforms, custom systems and brand identities, and I like being involved at every step. The most interesting part of the job for me is never the code itself, it's the decision behind it. And I like to work on cool stuff. I'm also into hardware.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomasssimko&label=Profile%20views&color=0e75b6&style=flat" alt="tomasssimko" /> </p>
-
 - 🦾 Learning bit of robotics (ROS2,Jazzy etc..) by building [Ava](https://github.com/TomasSirotek/ava-arm)
 - 🏫 Computer Science | Electrical Engineering | Multimedia design
 - 🌐 [Sir.Tomas](https://sirtomas.cz/) 
