@@ -4,8 +4,7 @@ I'm a software engineer with more than 7 years of experience. I've built mobile 
 
 - 🏫 Computer Science | Electrical Engineering | Multimedia design
 - 🦾 Learning bit of robotics (ROS2,Jazzy etc..) by building [Ava](https://github.com/TomasSirotek/ava-arm)
-- 🌐 [Sir.Tomas](https://sirtomas.cz/) 
-- 🌐 [Sir.Tomas | Blog ](https://sirtomas.cz/en/blog)
+- 🌐 [Sir.Tomas](https://sirtomas.cz/)
 - <a href="https://emoji.gg/emoji/4744_arch"><img src="https://cdn3.emoji.gg/emojis/4744_arch.png" width="20px" height="20px" alt="arch"></a> [Omarchy](https://omarchy.org/) | [Ubuntu](https://ubuntu.com/)
 
 ### Connect with me
